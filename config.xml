@@ -3,6 +3,7 @@
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "edu.iupui.bigTreeChicago"
+		xmlns:android   = "http://schemas.android.com/apk/res/android"
 	
 		
 			version     = "1.0.0" >
@@ -13,7 +14,7 @@
 		   Google map showing the location of the big Christmas tree in Chicago
 		</description>
 
-		<author href="cs.iupui.edu/~cdlotz" email="cdlotz@iupui.edu">
+		<author href="https://github.com/cdlotz/HolidayMap/" email="cdlotz@iupui.edu">
 				Cory Lotz
 		</author>
 		
