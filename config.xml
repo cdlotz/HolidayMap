@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-    <widget xmlns:gap       = "http://phonegap.com/ns/1.0"
-			xmlns:android   = "http://schemas.android.com/apk/res/android"
+    <widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "edu.iupui.bigTreeChicago"
 	
-			id        = "Big Chicago Tree"
+		
 			version     = "1.0.0" >
 
 		<name>Big Tree in Chicago</name>
