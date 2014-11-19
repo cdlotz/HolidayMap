@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget id        = "Big Chicago Tree"
+			xmlns:gap   = "http://phonegap.com/ns/1.0"
+			xmlns:android   = "http://schemas.android.com/apk/res/android"
+			version     = "1.0.0" >
+
+    <name>Big Tree in Chicago</name>
+
+    <description>
+       Google map showing the location of the big Christmas tree in Chicago
+    </description>
+
+    <author>
+			Cory Lotz
+	</author>
+	
+	<content src = "holidayMap.html" />
+
+	<gap: platform name = "android" />
+
+	<icon src="tree.png" />
+	
+	
+
+	<gap:platform name="android" />
+
+
+    <uses-sdk android:minSdkVersion="19"
+              android:targetSdkVersion="19"
+              android:maxSdkVersion="19" />
+
+
+
+</widget>
