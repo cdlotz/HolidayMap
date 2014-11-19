@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+    <widget id        = "Big Chicago Tree"
+			version     = "1.0.0" >
+
+		<name>Big Tree in Chicago</name>
+
+		<description>
+		   Google map showing the location of the big Christmas tree in Chicago
+		</description>
+
+		<author>
+				Cory Lotz
+		</author>
+		
+
+		<gap: platform name = "android" />
+
+		<icon src="tree.png" />
+
+		<gap: splash src = "tree.png" >
+		
+		<preference name="permissions" value="none"/>
+
+
+
+	</widget>
