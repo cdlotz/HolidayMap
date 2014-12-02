@@ -23,7 +23,7 @@
 
 		<icon src="tree.png" />
 
-		<gap: splash src = "tree.png" >
+		<gap: splash src = "tree.png" />
 		
 		<preference name="permissions" value="none"/>
 
